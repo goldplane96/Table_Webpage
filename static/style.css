@@ -1,0 +1,38 @@
+h1 {
+    color:red;
+}
+table {
+    width: 70%;
+    
+}
+thead :hover{
+    background-color: gray;
+    padding: 5px;
+    margin: 1px;
+    color: white;
+ }
+
+ th {
+    background-color: black;
+    color:whitesmoke;
+    border-collapse: collapse;
+ }
+ tbody {
+    background-color: brown;
+    color:gold;
+    padding: 3px;
+    margin: 1px;
+ }
+ tfoot :hover{
+    background-color: black;
+    color:whitesmoke;
+    margin: 1px;
+    padding: 5px;
+ }
+ tfoot {
+    background-color: black;
+    color:whitesmoke;
+    margin: 1px;
+    padding: 5px;
+ }
+ 
